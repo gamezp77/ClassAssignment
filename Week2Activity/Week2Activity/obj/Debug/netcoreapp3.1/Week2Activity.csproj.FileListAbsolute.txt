@@ -1,0 +1,12 @@
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.csproj.AssemblyReference.cache
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.AssemblyInfoInputs.cache
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.AssemblyInfo.cs
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.csproj.CoreCompileInputs.cache
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/bin/Debug/netcoreapp3.1/Week2Activity.deps.json
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/bin/Debug/netcoreapp3.1/Week2Activity.runtimeconfig.json
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/bin/Debug/netcoreapp3.1/Week2Activity.runtimeconfig.dev.json
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/bin/Debug/netcoreapp3.1/Week2Activity.dll
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/bin/Debug/netcoreapp3.1/Week2Activity.pdb
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.dll
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.pdb
+/Users/gamezjr/Desktop/CS132/Week2Activity/Week2Activity/obj/Debug/netcoreapp3.1/Week2Activity.genruntimeconfig.cache
